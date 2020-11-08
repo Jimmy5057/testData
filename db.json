@@ -1,5 +1,12 @@
 [
-  { "result": "true" },
-  { "result" : "false" },
-  { "result" : "list", "data" : ["o365", "ssl", "domain"]}
+  { 
+    "result": "true" 
+  },
+  { 
+    "result" : "false"
+  },
+  { 
+    "result" : "list", 
+    "data" : ["o365", "ssl", "domain"]
+  }
 ]
