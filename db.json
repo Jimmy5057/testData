@@ -6,7 +6,7 @@
   "result": "false"
 },
 {
-  "result": "list"
+  "result": "list",
   "data": ["o365","ssl","domain"]
 }
 ]
