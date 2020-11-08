@@ -1,15 +1,19 @@
 [
   { 
+    "id": 1,
     "result": "true" 
   },
   { 
+    "id": 2,
     "result" : "false"
   },
   { 
+    "id": 3,
     "result" : "list", 
     "data" : ["o365", "ssl", "domain"]
   },
   { 
+    "id": 4,
     "result" : "info", 
     "data" : "This is info"
   }
