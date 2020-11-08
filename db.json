@@ -1,5 +1,5 @@
-
-  [
+{
+  "apiResult":[
     { 
       "id": 1,
       "result": "true" 
@@ -19,4 +19,4 @@
       "data": "This is info"
     }
   ]
-
+}
