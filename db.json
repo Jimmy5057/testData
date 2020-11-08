@@ -8,5 +8,9 @@
   { 
     "result" : "list", 
     "data" : ["o365", "ssl", "domain"]
+  },
+  { 
+    "result" : "info", 
+    "data" : "This is info"
   }
 ]
