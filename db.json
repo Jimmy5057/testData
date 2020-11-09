@@ -1,28 +1,6 @@
-{
-  "apiResult": [
-    { 
-      "id": 1,
-      "result": "true",
-      "tag": "Common",
-      "data": ""
-    },
-    { 
-      "id": 2,
-      "result": "false",
-      "tag": "Denied",
-      "data": ""
-    },
-    { 
-      "id": 3,
-      "result": "list", 
-      "tag": "List",
-      "data": ["o365", "ssl", "domain"]
-    },
-    { 
-      "id": 4,
-      "result": "info", 
-      "tag": "Info",
-      "data": "This is info"
-    }
-  ]
+{ 
+  "id": 1,
+  "result": "true",
+  "tag": "Common",
+  "data": ""
 }
