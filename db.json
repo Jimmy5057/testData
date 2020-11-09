@@ -1,11 +1,6 @@
 {
-  "apiResult":[
-    {
-      "result": "true",
-      "tag": "Common"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "apiResult": {
+    "result": "true",
+    "tag": "Common"
   }
 }
