@@ -1,6 +1,6 @@
 {
   "apiResult": {
-    "result": "info",
-    "tag": "Info"
+    "result": "true",
+    "tag": "Common"
   }
 }
