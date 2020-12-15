@@ -1,6 +1,6 @@
 {
   "apiResult": {
-    "result": "info",
+    "result": "list",
     "data": ["a","b","c"]
   }
 }
