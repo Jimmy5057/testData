@@ -1,9 +1,6 @@
 {
   "apiResult": {
     "result": "list",
-    "data": {
-      "a": "test1",
-      "b": "test2"
-    }
+    "data": ["a","b","c"]
   }
 }
