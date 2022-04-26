@@ -1,6 +1,9 @@
 {
   "apiResult": {
-    "result": "false",
-    "data": ["a","b","c"]
+    "result": "info",
+    "data": {
+      "a": "hello",
+      "b": "world"
+    }
   }
 }
